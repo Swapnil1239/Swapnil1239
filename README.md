@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swapnil1239
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 👀 I’m interested in Full Stack Developement
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on Frontend Development Projects
 - 📫 How to reach me : swapnilsahare1239@gmail.com
 
 <!---
