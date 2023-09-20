@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Swapnil1239
-- 👀 I’m interested in Full Stack Developement
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on Frontend Development Projects
+- 👀 I’m interested in Android development
+- 💞️ I’m looking to collaborate on Android development Projects
 - 📫 How to reach me : swapnilsahare1239@gmail.com
 
 <!---
